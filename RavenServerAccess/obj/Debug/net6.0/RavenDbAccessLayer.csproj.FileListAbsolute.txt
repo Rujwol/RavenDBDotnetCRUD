@@ -1,0 +1,12 @@
+D:\Codes\Raven_NoSQL\Test_app\RavenServerAccess\bin\Debug\net6.0\RavenDbAccessLayer.deps.json
+D:\Codes\Raven_NoSQL\Test_app\RavenServerAccess\bin\Debug\net6.0\RavenDbAccessLayer.dll
+D:\Codes\Raven_NoSQL\Test_app\RavenServerAccess\bin\Debug\net6.0\RavenDbAccessLayer.pdb
+D:\Codes\Raven_NoSQL\Test_app\RavenServerAccess\obj\Debug\net6.0\RavenDbAccessLayer.csproj.AssemblyReference.cache
+D:\Codes\Raven_NoSQL\Test_app\RavenServerAccess\obj\Debug\net6.0\RavenDbAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Raven_NoSQL\Test_app\RavenServerAccess\obj\Debug\net6.0\RavenDbAccessLayer.AssemblyInfoInputs.cache
+D:\Codes\Raven_NoSQL\Test_app\RavenServerAccess\obj\Debug\net6.0\RavenDbAccessLayer.AssemblyInfo.cs
+D:\Codes\Raven_NoSQL\Test_app\RavenServerAccess\obj\Debug\net6.0\RavenDbAccessLayer.csproj.CoreCompileInputs.cache
+D:\Codes\Raven_NoSQL\Test_app\RavenServerAccess\obj\Debug\net6.0\RavenDbAccessLayer.dll
+D:\Codes\Raven_NoSQL\Test_app\RavenServerAccess\obj\Debug\net6.0\refint\RavenDbAccessLayer.dll
+D:\Codes\Raven_NoSQL\Test_app\RavenServerAccess\obj\Debug\net6.0\RavenDbAccessLayer.pdb
+D:\Codes\Raven_NoSQL\Test_app\RavenServerAccess\obj\Debug\net6.0\ref\RavenDbAccessLayer.dll

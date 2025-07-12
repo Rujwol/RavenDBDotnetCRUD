@@ -1,0 +1,36 @@
+﻿@model IEnumerable<RavenDbAccessLayer.Models.Person>
+
+@{
+    ViewBag.Title = "People";
+}
+
+<h2>People</h2>
+
+<p>
+    @Html.ActionLink("Add New Person", "Create", null, new { @class = "btn btn-success" })
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Id</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model)
+        {
+            <tr>
+                <td>@person.Name</td>
+                <td>@person.Age</td>
+                <td>@person.Id</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Person", new { id = person.Id })" class="btn btn-sm btn-warning">Edit</a>
+                    <a href="@Url.Action("Delete", "Person", new { id = person.Id })" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

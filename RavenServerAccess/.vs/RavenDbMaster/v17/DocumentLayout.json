@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenServerAccess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE7D8D-C98A-440A-91A6-5FE5616BF0AF}|RavenDbAccessLayer.csproj|d:\\codes\\raven_nosql\\test_app\\ravenserveraccess\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE7D8D-C98A-440A-91A6-5FE5616BF0AF}|RavenDbAccessLayer.csproj|solutionrelative:seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AB5E5E-4316-43D1-A5D1-D4D7D12410E0}|..\\RavenWebApp\\RavenWebApp.csproj|d:\\codes\\raven_nosql\\test_app\\ravenwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE7D8D-C98A-440A-91A6-5FE5616BF0AF}|RavenDbAccessLayer.csproj|d:\\codes\\raven_nosql\\test_app\\ravenserveraccess\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE7D8D-C98A-440A-91A6-5FE5616BF0AF}|RavenDbAccessLayer.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE7D8D-C98A-440A-91A6-5FE5616BF0AF}|RavenDbAccessLayer.csproj|d:\\codes\\raven_nosql\\test_app\\ravenserveraccess\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE7D8D-C98A-440A-91A6-5FE5616BF0AF}|RavenDbAccessLayer.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE7D8D-C98A-440A-91A6-5FE5616BF0AF}|RavenDbAccessLayer.csproj|d:\\codes\\raven_nosql\\test_app\\ravenserveraccess\\ravendbstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE7D8D-C98A-440A-91A6-5FE5616BF0AF}|RavenDbAccessLayer.csproj|solutionrelative:ravendbstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE7D8D-C98A-440A-91A6-5FE5616BF0AF}|RavenDbAccessLayer.csproj|d:\\codes\\raven_nosql\\test_app\\ravenserveraccess\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE7D8D-C98A-440A-91A6-5FE5616BF0AF}|RavenDbAccessLayer.csproj|solutionrelative:personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AB5E5E-4316-43D1-A5D1-D4D7D12410E0}|..\\RavenWebApp\\RavenWebApp.csproj|d:\\codes\\raven_nosql\\test_app\\ravenwebapp\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AB5E5E-4316-43D1-A5D1-D4D7D12410E0}|..\\RavenWebApp\\RavenWebApp.csproj|d:\\codes\\raven_nosql\\test_app\\ravenwebapp\\views\\person\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AB5E5E-4316-43D1-A5D1-D4D7D12410E0}|..\\RavenWebApp\\RavenWebApp.csproj|d:\\codes\\raven_nosql\\test_app\\ravenwebapp\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE7D8D-C98A-440A-91A6-5FE5616BF0AF}|RavenDbAccessLayer.csproj|d:\\codes\\raven_nosql\\test_app\\ravenserveraccess\\ravendbaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93DE7D8D-C98A-440A-91A6-5FE5616BF0AF}|RavenDbAccessLayer.csproj|solutionrelative:ravendbaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AB5E5E-4316-43D1-A5D1-D4D7D12410E0}|..\\RavenWebApp\\RavenWebApp.csproj|d:\\codes\\raven_nosql\\test_app\\ravenwebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AB5E5E-4316-43D1-A5D1-D4D7D12410E0}|..\\RavenWebApp\\RavenWebApp.csproj|d:\\codes\\raven_nosql\\test_app\\ravenwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AB5E5E-4316-43D1-A5D1-D4D7D12410E0}|..\\RavenWebApp\\RavenWebApp.csproj|d:\\codes\\raven_nosql\\test_app\\ravenwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AB5E5E-4316-43D1-A5D1-D4D7D12410E0}|..\\RavenWebApp\\RavenWebApp.csproj|d:\\codes\\raven_nosql\\test_app\\ravenwebapp\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RavenDbStore.cs",
+              "DocumentMoniker": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenServerAccess\\RavenDbStore.cs",
+              "RelativeDocumentMoniker": "RavenDbStore.cs",
+              "ToolTip": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenServerAccess\\RavenDbStore.cs",
+              "RelativeToolTip": "RavenDbStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:31:18.522Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenServerAccess\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenServerAccess\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:49:02.314Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenServerAccess\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenServerAccess\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:07:58.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\Views\\Person\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\RavenWebApp\\Views\\Person\\Index.cshtml",
+              "ToolTip": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\Views\\Person\\Index.cshtml",
+              "RelativeToolTip": "..\\RavenWebApp\\Views\\Person\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T15:57:48.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "..\\RavenWebApp\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "..\\RavenWebApp\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:54:12.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RavenWebApp\\Program.cs",
+              "ToolTip": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\Program.cs",
+              "RelativeToolTip": "..\\RavenWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:04:10.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenServerAccess\\SeedData.cs",
+              "RelativeDocumentMoniker": "SeedData.cs",
+              "ToolTip": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenServerAccess\\SeedData.cs",
+              "RelativeToolTip": "SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:14:03.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RavenDbAccessLayer.csproj",
+              "DocumentMoniker": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenServerAccess\\RavenDbAccessLayer.csproj",
+              "RelativeDocumentMoniker": "RavenDbAccessLayer.csproj",
+              "ToolTip": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenServerAccess\\RavenDbAccessLayer.csproj",
+              "RelativeToolTip": "RavenDbAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T15:46:33.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenServerAccess\\PersonService.cs",
+              "RelativeDocumentMoniker": "PersonService.cs",
+              "ToolTip": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenServerAccess\\PersonService.cs",
+              "RelativeToolTip": "PersonService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:49:37.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\Views\\Person\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\RavenWebApp\\Views\\Person\\Create.cshtml",
+              "ToolTip": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\Views\\Person\\Create.cshtml",
+              "RelativeToolTip": "..\\RavenWebApp\\Views\\Person\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T15:58:32.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\Views\\Person\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\RavenWebApp\\Views\\Person\\Edit.cshtml",
+              "ToolTip": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\Views\\Person\\Edit.cshtml",
+              "RelativeToolTip": "..\\RavenWebApp\\Views\\Person\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T16:43:32.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\RavenWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\RavenWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T15:58:58.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\RavenWebApp\\appsettings.json",
+              "ToolTip": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\appsettings.json",
+              "RelativeToolTip": "..\\RavenWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T16:02:34.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\RavenWebApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Codes\\Raven_NoSQL\\Test_app\\RavenWebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\RavenWebApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T16:02:41.657Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
