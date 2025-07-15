@@ -1,8 +1,3 @@
-You're welcome, Rujwol! 👇 Here's the full `README.md` content — just copy and paste it into your GitHub repo:
-
----
-
-````markdown
 # RavenDB CRUD App (.NET)
 
 This is a simple .NET MVC application demonstrating how to perform basic Create, Read, Update, and Delete (CRUD) operations using RavenDB — a fully transactional NoSQL document database.
